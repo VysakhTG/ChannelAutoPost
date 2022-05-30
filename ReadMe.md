@@ -11,7 +11,7 @@ This bot can send all new messages from one channel, directly to another channel
    
  a platform to deploy on:
 
-https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/VysakhTG/TagAllBot
+https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/VysakhTG/ChannelAutoPost
 
 <details>
 
